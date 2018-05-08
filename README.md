@@ -8,4 +8,12 @@ Fonts:
 "OCR-B Std"
 
 
+Lektion 1:
+    Har lagt till favicon och logotyp, även satt upp projektstrukturen.
+
+Lektion 2:
+    Jag har inte åstadkommit någonting :(
+
+Sista lektionen:
+    fixat "vi terapeuter"
  -->

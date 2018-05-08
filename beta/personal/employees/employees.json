@@ -1,0 +1,70 @@
+'''JavaScript Object Notation'''
+
+"employees" = [
+    {
+        "th_id": 1,
+        "th_name" : "Gunilla Berglund",
+        "th_content": "",
+        "th_ref": "gunilla",
+        "th_cell": "",
+        "th_site": "",
+        "th_mail": "kgunillak@gmail.com"
+    },
+    {
+        "th_id": 4,
+        "th_name": "Carin Salander",
+        "th_content": "",
+        "th_ref": "carin",
+        "th_cell": "",
+        "th_site": "",
+        "th_mail": "carin.salander@outlook.com"
+    },{
+        "th_id": 3,
+        "th_name": "Birgitta Englund",
+        "th_content": "",
+        "th_ref": "birgitta",
+        "th_cell": "",
+        "th_site": "",
+        "th_mail": " tinabirgitta@hotmail.com"
+    },{
+        "th_id": 5,
+        "th_name": "Ninne Lindgren",
+        "th_content": "",
+        "th_ref": "ninne",
+        "th_cell": "0738479046",
+        "th_site": "",
+        "th_mail": "ninnelindgren@gmail.com"
+    },{
+        "th_id": 6,
+        "th_name": "Ulla Kiivuori",
+        "th_content": "",
+        "th_ref": "ulla",
+        "th_cell": "0730554951",
+        "th_site": "",
+        "th_mail": ""
+    },{
+        "th_id": 7,
+        "th_name": "Katarina Sihlén",
+        "th_content": "",
+        "th_ref": "kata",
+        "th_cell": "",
+        "th_site": "",
+        "th_mail": ""
+    },{
+        "th_id": 2,
+        "th_name": "Karin Egberg Thyme",
+        "th_content": "",
+        "th_ref": "karinet",
+        "th_cell": "",
+        "th_site": "",
+        "th_mail": "karin.egberg.thyme@hede.nu"
+    },{
+        "th_id": 9,
+        "th_name": "Anna Karin Karlsson",
+        "th_content": "",
+        "th_ref": "annakarin",
+        "th_cell": "",
+        "th_site": "www.bildkompassen.se",
+        "th_mail": "annakarin@bildkompassen.se"
+    },
+]

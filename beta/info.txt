@@ -1,0 +1,23 @@
+Anmälning: "kgunillak@gmail.com"
+Kostnad: "450
+
+Ulla via kiivuori@gmail.com
+Ulla 0730- 55 49 51
+
+"kontakt" = [
+
+    1 : {
+
+    },
+    2 : {
+        "namn": "Ulla",
+
+    }
+
+]
+Gunilla via kgunillak@gmail.com
+Gunilla 0730-22 74 85
+
+
+#// y = ((x**2 - 5)/2)**2 - 6
+#//
